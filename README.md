@@ -64,8 +64,10 @@ public class splash extends AppCompatActivity {
         },4000);
     }
 }
-   ``
-# Animation xml
+   ```
+
+
+# Anim File xml
 
 top_animation 
 
@@ -84,7 +86,7 @@ top_animation
 </set>
    ```
 
-   ## bottom animation xml
+   ## bottom animation Anim File xml xml
 
 
 
